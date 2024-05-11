@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishabh-delta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on clone projects
+- 🌱 I have recently learnt html, css, javascript, node.js and sql database.
+- 💞️ I’m looking to collaborate on distinct projects.
 - 📫 I'm reachable at email: chouhan.rishabh96@gmail.com
 
 <!---
